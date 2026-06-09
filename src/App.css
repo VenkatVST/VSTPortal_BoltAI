@@ -67,6 +67,9 @@
   padding: 16px 0;
   transition: all var(--transition-base);
   background: transparent;
+  backdrop-filter: blur(10px);
+  background-color: rgba(255, 255, 255, 0.25);
+  border-bottom: #1e3a4c 1px solid;
 }
 
 .header--scrolled {
@@ -92,7 +95,7 @@
 }
 
 .header__logo img {
-  height: 85px;
+  height: 65px;
   width: 250px;
   object-fit: fill;
   transition: transform var(--transition-fast);

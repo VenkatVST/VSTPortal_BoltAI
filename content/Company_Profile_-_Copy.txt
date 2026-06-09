@@ -49,7 +49,7 @@ Functional & Regression Testing
 Test Automation Frameworks
 QA Process Engineering
 Experience & Capabilities
-VSQUARETHOUGHTS PRIVATE LIMITED
+VSquareThoughts PRIVATE LIMITED
 
 Software Consulting & Research Company
 March 2025 – Present
@@ -76,7 +76,7 @@ Automated Testing Framework
 
 Implemented Selenium-based automation frameworks to reduce manual testing effort and improve deployment quality.
 
-Why Choose VSQUARETHOUGHTS
+Why Choose VSquareThoughts
 50+ Years of Combined IT Experience
 Expertise in Microsoft Technology Stack
 Scalable Cloud & Microservices Solutions

@@ -115,7 +115,7 @@ function App() {
       <header className={`header ${scrolled ? 'header--scrolled' : ''}`}>
         <div className="header__container">
           <a href="#hero" className="header__logo">
-            <img src="/VSquareThoughts-final.png" alt="VSQUARETHOUGHTS" />
+            <img src="/VSquareThoughts.png" alt="VSQUARETHOUGHTS" />
           </a>
           <nav className="header__nav">
             <a href="#about">About</a>
@@ -246,7 +246,7 @@ function App() {
       <section className="why-choose">
         <div className="container">
           <div className="section-label">Our Edge</div>
-          <h2 className="section-title">Why Choose VSQUARETHOUGHTS</h2>
+          <h2 className="section-title">Why Choose VSquareThoughts</h2>
           <div className="why-choose__grid">
             {WHY_CHOOSE.map((reason, i) => (
               <div key={i} className="why-card">
